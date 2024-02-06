@@ -1,1 +1,0 @@
-import{l as r,b as t,c as n,a5 as o}from"./entry.HjQxdLml.js";const s={};function a(e,c){return t(),n("strong",null,[o(e.$slots,"default",{},void 0,!0)])}const f=r(s,[["render",a],["__scopeId","data-v-3d9f0f00"]]);export{f as default};
