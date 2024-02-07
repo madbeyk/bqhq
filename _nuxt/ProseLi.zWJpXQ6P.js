@@ -1,1 +1,0 @@
-import{l as a,b as r,c as t,a5 as n}from"./entry.rQOaavnc.js";const o={};function s(e,c){return r(),t("li",null,[n(e.$slots,"default",{},void 0,!0)])}const d=a(o,[["render",s],["__scopeId","data-v-96ebbfaa"]]);export{d as default};
